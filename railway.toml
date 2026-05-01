@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python study_buddy_bot.py"
